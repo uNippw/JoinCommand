@@ -1,7 +1,7 @@
 
 # JoinCommand
 
-Este é o meu primeiro plugin, e ele é bastante simples. Criei-o para um servidor de fastbridge, onde precisava que os jogadores executasse um comando assim que entrassem no servidor. Coloquei a mão na massa e desenvolvi esse plugin de forma básica, mas funcional.
+Este é o meu primeiro plugin, e ele é bastante simples. Criei-o para um servidor de fastbridge, onde precisava que os jogadores executasse um comando assim que entrassem no servidor. Coloquei a mão na massa e desenvolvi esse plugin de forma básica, mas funcional. (Funciona apenas na 1.8)
 
 
 ## Instalação
