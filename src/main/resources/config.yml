@@ -1,0 +1,5 @@
+commands:
+  - "/simulated: say Olá, %player%! Bem-vindo ao servidor!"
+  - "/simulated: give %player% diamond 64"
+  - "/simulated: say Seja bem-vindo, %player%!"
+  - "/simulated: give %player% iron_sword"

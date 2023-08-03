@@ -1,0 +1,3 @@
+name: JoinCommand
+version: '${project.version}'
+main: nippy.joincommand.JoinCommand
