@@ -9,7 +9,7 @@ Este é o meu primeiro plugin, e ele é bastante simples. Criei-o para um servid
 Para utilizar o plugin, siga estes passos simples:
 
 ```bash
-1. Faça o download do plugin.
+1. Faça o download do plugin nos "releases".
 2. Coloque-o na pasta "plugins" do seu servidor.
 3. Reinicie o servidor.
 ```
